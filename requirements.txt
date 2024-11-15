@@ -64,7 +64,6 @@ defusedxml==0.7.1
 diffusers==0.30.0
 dill==0.3.8
 distro==1.7.0
-distro-info==1.1+ubuntu0.2
 Django==3.2.20
 django-annoying==0.10.6
 django-cors-headers==3.6.0
