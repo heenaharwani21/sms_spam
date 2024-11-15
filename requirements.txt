@@ -1,3 +1,5 @@
 nltk==3.6.7
 streamlit==1.40.1
 gunicorn
+scikit-learn
+
