@@ -51,7 +51,6 @@ coreschema==0.0.4
 cryptography==3.4.8
 crytic-compile==0.3.1
 ctypes-callable==1.0.4
-cupshelpers==1.0
 cycler==0.12.1
 cymem==2.0.8
 Cython==3.0.11
